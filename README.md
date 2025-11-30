@@ -203,10 +203,10 @@ IDE 推荐
 ```json
 {
   "recommendations": [
-    "llvm-vs-code-extensions.vscode-clangd",  // C++ 语言支持
-    "ms-vscode.cmake-tools",                  // CMake 集成
-    "twxs.cmake",                             // CMake 语法高亮
-    "ms-vscode.cpptools-extension-pack"       // C++ 工具包
+    "llvm-vs-code-extensions.vscode-clangd",
+    "ms-vscode.cmake-tools",                  
+    "twxs.cmake",                            
+    "ms-vscode.cpptools-extension-pack"       
   ]
 }
 ```
@@ -228,10 +228,10 @@ For VS Code:
 ```json
 {
   "recommendations": [
-    "llvm-vs-code-extensions.vscode-clangd",  // C++ language support
-    "ms-vscode.cmake-tools",                  // CMake integration
-    "twxs.cmake",                             // CMake syntax highlighting
-    "ms-vscode.cpptools-extension-pack"       // C++ tooling pack
+    "llvm-vs-code-extensions.vscode-clangd", 
+    "ms-vscode.cmake-tools",                 
+    "twxs.cmake",                             
+    "ms-vscode.cpptools-extension-pack"       
   ]
 }
 ```
