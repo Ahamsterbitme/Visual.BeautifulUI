@@ -187,7 +187,52 @@ Thank you for your understanding and support!
 **Let's make Linux development awesome, together!** 🐧💫
 
 
+zh-CN:
+##IDE 推荐
 
+    Visual Studio Code (推荐) - 轻量级且功能强大
+
+    CLion - 专业的 C++ IDE
+
+    Qt Creator - 对 GTK 项目支持良好
+
+#必备扩展
+
+安装以下扩展来获得完整的智能提示和代码补全：
+对于 VS Code：
+```json
+{
+  "recommendations": [
+    "llvm-vs-code-extensions.vscode-clangd",  // C++ 语言支持
+    "ms-vscode.cmake-tools",                  // CMake 集成
+    "twxs.cmake",                             // CMake 语法高亮
+    "ms-vscode.cpptools-extension-pack"       // C++ 工具包
+  ]
+}
+
+en:
+##Recommended IDEs
+
+    Visual Studio Code (Recommended) - Lightweight yet powerful
+
+    CLion - Professional C++ IDE
+
+    Qt Creator - Good GTK project support
+
+#Essential Extensions
+
+Install the following extensions for full IntelliSense and code completion:
+For VS Code:
+
+```json
+{
+  "recommendations": [
+    "llvm-vs-code-extensions.vscode-clangd",  // C++ language support
+    "ms-vscode.cmake-tools",                  // CMake integration
+    "twxs.cmake",                             // CMake syntax highlighting
+    "ms-vscode.cpptools-extension-pack"       // C++ tooling pack
+  ]
+}
 ##许可证
 
 本项目采用 **GNU General Public License v3.0 (GPL-3.0)** 开源许可证。
