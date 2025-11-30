@@ -188,7 +188,7 @@ Thank you for your understanding and support!
 
 
 zh-CN:
-##IDE 推荐
+IDE 推荐
 
     Visual Studio Code (推荐) - 轻量级且功能强大
 
@@ -196,7 +196,7 @@ zh-CN:
 
     Qt Creator - 对 GTK 项目支持良好
 
-#必备扩展
+必备扩展
 
 安装以下扩展来获得完整的智能提示和代码补全：
 对于 VS Code：
@@ -209,9 +209,10 @@ zh-CN:
     "ms-vscode.cpptools-extension-pack"       // C++ 工具包
   ]
 }
+```
 
 en:
-##Recommended IDEs
+Recommended IDEs
 
     Visual Studio Code (Recommended) - Lightweight yet powerful
 
@@ -219,7 +220,7 @@ en:
 
     Qt Creator - Good GTK project support
 
-#Essential Extensions
+Essential Extensions
 
 Install the following extensions for full IntelliSense and code completion:
 For VS Code:
@@ -233,6 +234,7 @@ For VS Code:
     "ms-vscode.cpptools-extension-pack"       // C++ tooling pack
   ]
 }
+```
 ##许可证
 
 本项目采用 **GNU General Public License v3.0 (GPL-3.0)** 开源许可证。
