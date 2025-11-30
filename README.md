@@ -6,7 +6,22 @@ VBUI (Visual.Beautiful UI): A lightweight, header-only C++ wrapper for GTKmm.  F
 
 # Visual.Beautiful UI V1.0 - Simple C++ GUI Framework for Linux
 
+
 ## 为什么选择 VBUI？
+
+## 🚨 前置依赖
+
+在使用 VBUI 之前，请确保已安装 GTKmm 4.0：
+
+```bash
+# Ubuntu/Debian
+sudo apt install libgtkmm-4.0-dev
+
+# Arch Linux  
+sudo pacman -S gtkmm4
+
+# Fedora
+sudo dnf install gtkmm4.0-devel
 
 ### ⚡ 零性能代价
 - 直接基于 GTKmm，无额外抽象层
@@ -87,6 +102,20 @@ EN:
 # Visual.Beautiful UI V1.0 - Simple C++ GUI Framework for Linux
 
 ## Why Choose VBUI?
+
+## 🚨 Prerequisites
+
+Before using VBUI, make sure GTKmm 4.0 is installed:
+
+```bash
+# Ubuntu/Debian
+sudo apt install libgtkmm-4.0-dev
+
+# Arch Linux
+sudo pacman -S gtkmm4
+
+# Fedora  
+sudo dnf install gtkmm4.0-devel
 
 ### ⚡ Zero Performance Cost
 - Built directly on GTKmm, no extra abstraction layers  
