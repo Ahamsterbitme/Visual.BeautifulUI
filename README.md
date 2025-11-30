@@ -1,7 +1,7 @@
 # Visual.BeautifulUI
 VBUI (Visual.Beautiful UI): A lightweight, header-only C++ wrapper for GTKmm.  Features reactive components, declarative layouts, and a minimal API.  Enables rapid development of native Linux applications without sacrificing performance.
 
-(assets/Picture/logo.png)
+(.assets/Picture/logo.png)
 
 
 # Visual.Beautiful UI V1.0 - Simple C++ GUI Framework for Linux
